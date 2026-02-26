@@ -1,4 +1,6 @@
-# AI-METHODOLOGY-PLAYBOOKKK
+AI Methodology Playbook
+Note: If the cloud deployment link becomes inactive due to expired credits, please refer to the attached project demo video for a complete walkthrough. https://172.26.20.201/ChatBox
+
 The AI Methodology Playbook is a robust, full-stack, multi-turn LLM-powered conversational playbook designed for intelligent interactions. The system leverages adaptive prompt logic, user feedback loops, and real-time WebSocket updates to deliver accurate, responsive, and scalable AI experiences.
 
 The stack is containerized and deployed using Docker, with each service operating as an independent microservice within a shared network and runs the system on Google Cloud Platform (GCP).
